@@ -1,0 +1,32 @@
+/*  Body */
+body {
+    background-image: url("./record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
+
+/* Header */
+.header {
+    background-color: #023047;
+    color: #219ebc;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Main */
+.recordShopName {
+    font-size: 30px;
+}
+
+.mainSection {
+    background-color: #e5e5e5;
+    padding: 1rem;
+    margin: 1rem;
+    color: black;
+    text-align: center;
+}
+
+#resultsTable {
+    margin: 1rem auto;
+}
+
