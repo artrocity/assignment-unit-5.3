@@ -158,7 +158,7 @@ console.log(strechSearchResults);
 const recordCollection = [];
 
 
-//
+// Reset and Acknowledge Records Added
 function acknowledgeInput() {
     document.getElementById("addTitle").value = "";
     document.getElementById("addArtist").value = "";
